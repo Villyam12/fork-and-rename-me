@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://avatars2.githubusercontent.com/u/34958704?s=400&u=c09956ff30df454d2fef380f00dec4c51c7aeecb&v=4" alt="Project">
   <br />
-  [Project]
+  [Youtube Search]
 </h1>
 
 <p align="center"><b>This is the snap for [Project]</b>, <i>"Single-line elevator pitch for your amazing snap"</i>. It works on Ubuntu, Fedora, Debian, and other major Linux
